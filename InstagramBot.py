@@ -1,7 +1,7 @@
 from instabot import Bot
 #project made with pylance
 bot=Bot()
-bot.login(username='krishnahanda.ai',password='Bharat@1322jindabad')
+bot.login(username='krishnahanda.ai',password='B**********d')
 bot.follow('Instagram')
 bot.upload_photo("C:/Users/pc/Pictures/Screenshots/Screenshot 2024-01-25 200657.png",caption="This is my project")
 bot.unfollow('Instagram')
